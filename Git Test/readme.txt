@@ -1,0 +1,3 @@
+This is a test of the Git Bash application...
+
+User: KilledBySandvich
